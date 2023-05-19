@@ -1,0 +1,16 @@
+C:\Users\babic\source\repos\dinamikMenu\dinamikMenu\bin\Debug\dinamikMenu.exe.config
+C:\Users\babic\source\repos\dinamikMenu\dinamikMenu\bin\Debug\dinamikMenu.exe
+C:\Users\babic\source\repos\dinamikMenu\dinamikMenu\bin\Debug\dinamikMenu.pdb
+C:\Users\babic\source\repos\dinamikMenu\dinamikMenu\obj\Debug\dinamikMenu.csproj.AssemblyReference.cache
+C:\Users\babic\source\repos\dinamikMenu\dinamikMenu\obj\Debug\dinamikMenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\babic\source\repos\dinamikMenu\dinamikMenu\obj\Debug\MainWindow.g.cs
+C:\Users\babic\source\repos\dinamikMenu\dinamikMenu\obj\Debug\App.g.cs
+C:\Users\babic\source\repos\dinamikMenu\dinamikMenu\obj\Debug\dinamikMenu_MarkupCompile.cache
+C:\Users\babic\source\repos\dinamikMenu\dinamikMenu\obj\Debug\dinamikMenu_MarkupCompile.lref
+C:\Users\babic\source\repos\dinamikMenu\dinamikMenu\obj\Debug\MainWindow.baml
+C:\Users\babic\source\repos\dinamikMenu\dinamikMenu\obj\Debug\dinamikMenu.g.resources
+C:\Users\babic\source\repos\dinamikMenu\dinamikMenu\obj\Debug\dinamikMenu.Properties.Resources.resources
+C:\Users\babic\source\repos\dinamikMenu\dinamikMenu\obj\Debug\dinamikMenu.csproj.GenerateResource.cache
+C:\Users\babic\source\repos\dinamikMenu\dinamikMenu\obj\Debug\dinamikMenu.csproj.CoreCompileInputs.cache
+C:\Users\babic\source\repos\dinamikMenu\dinamikMenu\obj\Debug\dinamikMenu.exe
+C:\Users\babic\source\repos\dinamikMenu\dinamikMenu\obj\Debug\dinamikMenu.pdb
